@@ -1,22 +1,24 @@
 <!-- ================================================================== -->
 <!--  BHANU PRAKASH — GITHUB PROFILE README                            -->
-<!--  Paste this file as README.md inside a repo named exactly your    -->
-<!--  GitHub username (e.g. thammubhanuprakash/thammubhanuprakash)     -->
+<!--  Repo must be named exactly your GitHub username, e.g.            -->
+<!--  github.com/thammubhanuprakash/thammubhanuprakash                -->
 <!-- ================================================================== -->
 
 <div align="center">
 
-<!-- ============ TOP BANNER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:0f172a&height=200&section=header&text=Bhanu%20Prakash&fontSize=55&fontColor=00e5ff&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20IoT%20%C2%B7%20AI%2FML%20%C2%B7%20Blockchain&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<!-- ============ HERO: PARTICLE / CIRCUIT ARTWORK ============ -->
+<img src="assets/profile-hero.svg" width="100%" alt="Cybersecurity IoT AI Blockchain particle hero"/>
 
 <!-- ============ PROFILE PHOTO ============ -->
-<!-- 🔴 REPLACE: put your circular-cropped photo at assets/profile.png (transparent background, 500x500px recommended) -->
-<img src="assets/profile.png" width="180" height="180" style="border-radius:50%;" alt="Bhanu Prakash"/>
+<!-- 🔴 REPLACE: put your circular-cropped photo at assets/profile.png (transparent background PNG, ~500x500px, already cropped to a circle) -->
+<img src="assets/profile.png" width="190" alt="Bhanu Prakash"/>
 
 <br/>
 
-<!-- 🔴 REPLACE: username in the src URL below with your GitHub username -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=560&lines=Bhanu+Prakash;Cybersecurity+Student;IoT+%7C+AI%2FML+%7C+Blockchain;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+# Bhanu Prakash
+
+<!-- 🔴 REPLACE: username=thammubhanuprakash with your GitHub username -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=520&lines=Cybersecurity+Student;IoT+%C2%B7+AI%2FML+%C2%B7+Blockchain;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG"/>
 
 **@thammubhanuprakash** &nbsp;•&nbsp; 3rd Year B.Tech (CSE – Cyber Security) &nbsp;•&nbsp; India
 
