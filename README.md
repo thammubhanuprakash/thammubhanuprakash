@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**thammubhanuprakash/thammubhanuprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <img src="./assets/profile-avatar.jpg" width="180" height="180" style="border-radius: 50%; border: 3px solid #00f2fe;" alt="Bhanu Prakash"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  # Bhanu Prakash
+  ### `@thammubhanuprakash`
+
+  **Cybersecurity Student**  
+  `IoT` • `AI/ML` • `Blockchain`  
+  *Problem Solver • Builder • Lifelong Learner*
+
+  ---
+
+  🎓 **3rd Year Cyber Security Student**  
+  📍 **India**  
+  ✉️ **bhanuprakash080803@gmail.com**  
+  🔗 **[github.com/thammubhanuprakash](https://github.com/thammubhanuprakash)**
+
+  > **>_ I build secure, smart and intelligent solutions that make a real world impact.**
+
+</div>
+
+---
+
+```text
+$ whoami
+                        
+       .::-====-::.       > name        : Bhanu Prakash
+     .+#%@@@@@@@@%#+.     > username    : thammubhanuprakash
+    -%@@@@@@@@@@@@@@%-    > role        : Cybersecurity Student
+   +@@@@@@@@@@@@@@@@@@+   > focus       : IoT, AI/ML, Blockchain
+  *@@@@@@@@@@@@@@@@@@@@*  > status      : Building the future
+  %@@@@@@@@@@@@@@@@@@@@%  > location    : India
+  %@@@@@@@@@@@@@@@@@@@@%  > education   : B.Tech (CSE - Cyber Security)
+  +@@@@@@@@@@@@@@@@@@@@+  > passion     : Cyber Security
+   -%@@@@@@@@@@@@@@@@%-                   IoT & Embedded Systems
+    .*#@@@@@@@@@@@@#*.                    AI / Machine Learning
+      .:=*%%%%%%*=:.                      Blockchain Technology
+                                          Open Source
+                                          Ethical Hacking
