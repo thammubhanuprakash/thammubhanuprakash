@@ -1,1 +1,105 @@
+<svg width="900" height="380" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="haloGlow" cx="50%" cy="100%" r="75%">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.35"/>
+      <stop offset="55%" stop-color="#00e5ff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bgGlow" cx="50%" cy="35%" r="80%">
+      <stop offset="0%" stop-color="#0891b2" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#0891b2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
 
+  <!-- background -->
+  <rect x="1" y="1" width="898" height="378" rx="18" fill="#050810" stroke="#0e2436" stroke-width="1.5"/>
+  <rect x="1" y="1" width="898" height="378" rx="18" fill="url(#bgGlow)"/>
+
+  <!-- terminal-style window dots (top right) -->
+  <circle cx="838" cy="30" r="5" fill="#d946ef" opacity="0.85"/>
+  <circle cx="858" cy="30" r="5" fill="#38bdf8" opacity="0.85"/>
+  <circle cx="878" cy="30" r="5" fill="#34d399" opacity="0.85"/>
+
+  <!-- corner tech brackets -->
+  <path d="M24,50 L24,24 L50,24" fill="none" stroke="#164e63" stroke-width="2"/>
+  <path d="M24,330 L24,356 L50,356" fill="none" stroke="#164e63" stroke-width="2"/>
+
+  <!-- scattered particle field -->
+  <g fill="#67e8f9">
+    <circle cx="60" cy="140" r="2" opacity="0.5"/>
+    <circle cx="120" cy="120" r="1.8" opacity="0.4"/>
+    <circle cx="180" cy="45" r="1.8" opacity="0.4"/>
+    <circle cx="262" cy="132" r="2.4" opacity="0.55"/>
+    <circle cx="340" cy="60" r="2" opacity="0.45"/>
+    <circle cx="400" cy="32" r="2" opacity="0.4"/>
+    <circle cx="500" cy="50" r="1.7" opacity="0.35"/>
+    <circle cx="562" cy="120" r="2.2" opacity="0.5"/>
+    <circle cx="650" cy="50" r="1.8" opacity="0.4"/>
+    <circle cx="732" cy="142" r="2.4" opacity="0.55"/>
+    <circle cx="820" cy="92" r="2" opacity="0.45"/>
+    <circle cx="852" cy="200" r="1.8" opacity="0.4"/>
+    <circle cx="780" cy="300" r="2" opacity="0.5"/>
+    <circle cx="702" cy="340" r="1.6" opacity="0.35"/>
+    <circle cx="200" cy="300" r="2.2" opacity="0.5"/>
+    <circle cx="150" cy="340" r="1.8" opacity="0.4"/>
+    <circle cx="50" cy="280" r="2" opacity="0.45"/>
+    <circle cx="30" cy="180" r="1.6" opacity="0.35"/>
+    <circle cx="470" cy="150" r="1.6" opacity="0.3"/>
+    <circle cx="600" cy="222" r="2" opacity="0.4"/>
+    <circle cx="300" cy="222" r="2" opacity="0.4"/>
+    <circle cx="380" cy="182" r="1.6" opacity="0.3"/>
+    <circle cx="520" cy="260" r="1.8" opacity="0.35"/>
+    <circle cx="760" cy="220" r="1.8" opacity="0.35"/>
+  </g>
+
+  <!-- faint constellation links between nearby particles -->
+  <g stroke="#22d3ee" stroke-width="1" opacity="0.18">
+    <line x1="60" y1="140" x2="120" y2="120"/>
+    <line x1="180" y1="45" x2="262" y2="132"/>
+    <line x1="650" y1="50" x2="732" y2="142"/>
+    <line x1="780" y1="300" x2="702" y2="340"/>
+    <line x1="150" y1="340" x2="200" y2="300"/>
+  </g>
+
+  <!-- circuit traces connecting identity nodes to the profile point -->
+  <g fill="none" stroke="#22d3ee" stroke-width="1.5" opacity="0.55">
+    <path d="M450,345 L450,232 L112,232 L112,84"/>
+    <path d="M450,345 L450,232 L788,232 L788,84"/>
+    <path d="M450,345 L250,345 L250,252 L92,252"/>
+    <path d="M450,345 L650,345 L650,252 L808,252"/>
+  </g>
+
+  <!-- junction dots along traces -->
+  <g fill="#00e5ff">
+    <circle cx="450" cy="232" r="2.5"/>
+    <circle cx="112" cy="232" r="2.5"/>
+    <circle cx="788" cy="232" r="2.5"/>
+    <circle cx="250" cy="345" r="2.5"/>
+    <circle cx="250" cy="252" r="2.5"/>
+    <circle cx="650" cy="345" r="2.5"/>
+    <circle cx="650" cy="252" r="2.5"/>
+  </g>
+
+  <!-- identity nodes -->
+  <g>
+    <rect x="104" y="76" width="16" height="16" rx="3" fill="#0a1a24" stroke="#00e5ff" stroke-width="1.5"/>
+    <text x="112" y="60" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#67e8f9" letter-spacing="0.5">CYBERSECURITY</text>
+
+    <rect x="780" y="76" width="16" height="16" rx="3" fill="#0a1a24" stroke="#00e5ff" stroke-width="1.5"/>
+    <text x="788" y="60" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#67e8f9" letter-spacing="0.5">AI / ML</text>
+
+    <rect x="84" y="244" width="16" height="16" rx="3" fill="#0a1a24" stroke="#00e5ff" stroke-width="1.5"/>
+    <text x="92" y="276" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#67e8f9" letter-spacing="0.5">IoT</text>
+
+    <rect x="800" y="244" width="16" height="16" rx="3" fill="#0a1a24" stroke="#00e5ff" stroke-width="1.5"/>
+    <text x="808" y="276" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#67e8f9" letter-spacing="0.5">BLOCKCHAIN</text>
+  </g>
+
+  <!-- halo / glow behind where the profile photo will sit (photo placed just below this artwork) -->
+  <circle cx="450" cy="345" r="170" fill="url(#haloGlow)"/>
+  <circle cx="450" cy="345" r="122" fill="none" stroke="#00e5ff" stroke-width="1" stroke-opacity="0.35" stroke-dasharray="3 7"/>
+  <circle cx="450" cy="345" r="108" fill="none" stroke="#00e5ff" stroke-width="2" stroke-opacity="0.75"/>
+
+  <!-- prompt line -->
+  <text x="450" y="24" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#3b7285" letter-spacing="1">$ ./initialize_profile.sh</text>
+</svg>
