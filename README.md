@@ -1,5 +1,4 @@
-```markdown
-# 👨‍💻 Bhanu Prakash
+# 👨💻 Bhanu Prakash
 
 <div align="center">
 
@@ -209,4 +208,3 @@ AI powered system for vehicle detection and road monitoring using computer visio
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:6a5acd&height=100&section=footer" width="100%"/>
 
 </div>
-```
