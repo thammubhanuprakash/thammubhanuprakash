@@ -11,7 +11,7 @@
 
 <!-- ============ PROFILE PHOTO ============ -->
 <!-- 🔴 REPLACE: put your circular-cropped photo at assets/profile.png (transparent background PNG, ~500x500px, already cropped to a circle) -->
-<img src="assets/profile.png" width="190" alt="Bhanu Prakash"/>
+<img src="assets/profile.jpeg" width="190" alt="Bhanu Prakash"/>
 
 <br/>
 
